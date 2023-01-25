@@ -2,4 +2,4 @@ Hello world
 <<<<<<< HEAD
 New world
 =======
->>>>>>> 07a68de (main new txt with 1 line)
+>>>>>>> main
